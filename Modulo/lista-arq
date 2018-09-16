@@ -18,5 +18,3 @@ openvpn.sh
 shadowsocks.sh
 ssl.sh
 squid.sh
-gerar.sh
-http-server.py
